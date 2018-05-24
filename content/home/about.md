@@ -10,31 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Information Visualization",
+    "HCI and Interaction Design",
+    "GeoVis and Urban Mobility",
+    "Exploratory Visualization"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Computer Science"
+  institution = "KU Leuven, Belgium"
+  year = 2015
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Diploma in Media Informatics"
+  institution = "FH Wedel, Germany"
+  year = 2001
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Till Nagel is a professor for visual analytics at [Mannheim University of Applied Sciences](https://www.informatik.hs-mannheim.de). His research interest are in information visualization, urban data, and interaction design, with a focus on how to engage broader audiences with interactive displays of spatio-temporal data.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Previously, he was a guest professor at Burg Giebichenstein University of Arts and Design Halle. Before that, Till was a postdoc at the [FHP Urban Complexity Lab](https://uclab.fh-potsdam.de). He has a background in media and computer science, and pursued his PhD at the Human Computer Interaction group at KU Leuven. He is a research affiliate with the [MIT Senseable City Lab](http://senseable.mit.edu), and the KUL Data Visualization Lab. Since 2006 he is a lecturer in creative coding and data visualization, and taught courses at several international universities.
+
+He is the project lead of [Unfolding Maps](http://unfoldingmaps.org), a software library for geovisualizations and maps for Processing and Java. His work has been exhibited at Venice Biennale of Architecture, Shanghai Design Exhibition, DMY Berlin, and featured in The Guardian, Esquire, The Atlantic Cities, and many more.
